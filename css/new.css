@@ -1,0 +1,21 @@
+@media (max-width: 575.98px) {
+  .logo-foot{
+    width: 170px;
+    height: 36px;
+  }
+  .logo-main{
+    width: 240px;
+    height: 99px;
+    text-align: center;
+  }
+  .header{
+    padding-top: 2.5rem;
+    padding-bottom: 3.125rem;
+  }
+  .sologan-btn{
+    display: none;
+  }
+  .slogan__title{
+    margin-bottom: 1.875rem;
+  }
+}
