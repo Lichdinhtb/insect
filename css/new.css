@@ -18,4 +18,10 @@
   .slogan__title{
     margin-bottom: 1.875rem;
   }
+  .circle-left{
+    padding-left: 30px !important;
+  }
+  .circle-right{
+    padding-right: 30px !important;
+  }
 }
